@@ -1,0 +1,8 @@
+pandas
+pyarrow
+duckdb
+gtfs-kit
+geopandas
+shapely
+streamlit
+folium
