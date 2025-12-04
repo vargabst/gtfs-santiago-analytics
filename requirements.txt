@@ -6,3 +6,7 @@ geopandas
 shapely
 streamlit
 folium
+streamlit-folium
+requests
+beautifulsoup4
+lxml
